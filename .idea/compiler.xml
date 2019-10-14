@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-project-module-mapper" />
+        <module name="springboot-project-module-utils" />
+        <module name="springboot-project-module-api" />
+        <module name="springboot-project-module-web" />
+        <module name="springboot-project-module-service" />
+        <module name="springboot-project-module-entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.springboot.project.module.api" target="1.8" />
+      <module name="springboot-project-module-api" target="1.8" />
+      <module name="springboot-project-module-entity" target="1.8" />
+      <module name="springboot-project-module-mapper" target="1.8" />
+      <module name="springboot-project-module-service" target="1.8" />
+      <module name="springboot-project-module-util" target="1.8" />
+      <module name="springboot-project-module-utils" target="1.8" />
+      <module name="springboot-project-module-web" target="1.8" />
+      <module name="springboot_project-module-api" target="1.8" />
+      <module name="SpringbootProject" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-project-module-api" options="-parameters" />
+      <module name="springboot-project-module-entity" options="-parameters" />
+      <module name="springboot-project-module-mapper" options="-parameters" />
+      <module name="springboot-project-module-service" options="-parameters" />
+      <module name="springboot-project-module-utils" options="-parameters" />
+      <module name="springboot-project-module-web" options="-parameters" />
+    </option>
+  </component>
+</project>

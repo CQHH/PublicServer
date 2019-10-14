@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.springboot.project.module.api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-module-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-module-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-module-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-module-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-module-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project-module-web" charset="UTF-8" />
+  </component>
+</project>

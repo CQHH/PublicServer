@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace = "com.springboot.project.module.mapper.GenreMapper">
+
+    <resultMap id = "BaseResultMap" type = "com.springboot.project.module.entity.Genre">
+        <result column="genre_id" jdbcType="INTEGER" property="genreId" />
+        <result column="genre_name" jdbcType="VARCHAR" property="genreName" />
+    </resultMap>
+
+    <select id = "findAll" resultMap="BaseResultMap">
+        select * from genre
+    </select>
+
+</mapper>

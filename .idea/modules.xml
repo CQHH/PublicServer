@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringbootProject.iml" filepath="$PROJECT_DIR$/SpringbootProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-project-module-api/springboot-project-module-api.iml" filepath="$PROJECT_DIR$/springboot-project-module-api/springboot-project-module-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-project-module-entity/springboot-project-module-entity.iml" filepath="$PROJECT_DIR$/springboot-project-module-entity/springboot-project-module-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-project-module-mapper/springboot-project-module-mapper.iml" filepath="$PROJECT_DIR$/springboot-project-module-mapper/springboot-project-module-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-project-module-service/springboot-project-module-service.iml" filepath="$PROJECT_DIR$/springboot-project-module-service/springboot-project-module-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-project-module-utils/springboot-project-module-utils.iml" filepath="$PROJECT_DIR$/springboot-project-module-utils/springboot-project-module-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-project-module-web/springboot-project-module-web.iml" filepath="$PROJECT_DIR$/springboot-project-module-web/springboot-project-module-web.iml" />
+    </modules>
+  </component>
+</project>
